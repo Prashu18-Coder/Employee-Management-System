@@ -1,4 +1,4 @@
-🧑‍💼 Employee Management System — Tkinter + SQLite
+#**🧑‍💼 Employee Management System — Tkinter + SQLite**
 A lightweight desktop application built with Python, Tkinter, and SQLite to manage employee records efficiently. This GUI-based tool allows users to add, update, delete, and view employee data with real-time validation and a user-friendly interface.
 🚀 Features
 - Add New Employees with validation for ID, email, and salary
